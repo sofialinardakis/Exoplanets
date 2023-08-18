@@ -1,5 +1,7 @@
 # EXOPLANET DATA ANALYSIS AND MODELLING PROJECT
 
+predicting model & visualization for exoplanets prediction based on dataset for exoplanets. 
+dataset: [http://exoplanet.eu/catalog/all_fields/#](url)
 
 
 **HYPOTHESIS // EXPECTATIONS**
